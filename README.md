@@ -46,7 +46,7 @@ https://github.com/sadia-ai-dev/Student-Pulse-ai/blob/main/Screenshot_25-7-2026_
 ![AI Chat](./screenshots/ai-chat.png)
 
 ### 📊 Student Dashboard
-![Dashboard](./screenshots/dashboard.png)
+https://github.com/sadia-ai-dev/Student-Pulse-ai/blob/main/Screenshot_25-7-2026_18355_aistudio.google.com.jpeg
 ## 🛠️ Tools & Technologies
 - Google AI Studio
 - Gemini AI Model
