@@ -43,7 +43,7 @@ Always keep responses relevant, respectful, and student-focused.
 https://github.com/sadia-ai-dev/Student-Pulse-ai/blob/main/Screenshot_25-7-2026_183145_aistudio.google.com.jpeg
 
 ### 🤖 AI Chat Assistant
-![AI Chat](./screenshots/ai-chat.png)
+https://github.com/sadia-ai-dev/Student-Pulse-ai/blob/main/Screenshot_25-7-2026_183816_aistudio.google.com.jpeg
 
 ### 📊 Student Dashboard
 https://github.com/sadia-ai-dev/Student-Pulse-ai/blob/main/Screenshot_25-7-2026_18355_aistudio.google.com.jpeg
